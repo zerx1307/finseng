@@ -1,0 +1,6 @@
+git clone https://github.com/[zerx1307]/[finseng].git cd [finseng]
+git add index.html
+git commit -m "Add index.html with email ID"
+git push origin main
+https://raw.githubusercontent.com/[zerx1307]/[finseng]/main/index.html
+
