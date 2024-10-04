@@ -2,5 +2,3 @@ echo "23f2000902@ds.study.iitm.ac.in" > index.html
 git add index.html
 git commit -m "Add index.html with email ID"
 git push origin main
-
-
